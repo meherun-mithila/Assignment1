@@ -35,8 +35,9 @@ body{
     margin-top: 10%;
     text-align: center;
     padding: 40px 20px;
-    /* background-image: url("/Pictures/handshake.jpg"); */
-    background: url("/Pictures/handshake.jpg");
+    background-image: url("/Pictures/handshake.jpg"); 
+    background-size: cover;
+    background-position: center;
     height: 100%;
 
 }
