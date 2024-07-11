@@ -15,7 +15,7 @@ body{
 .introduction{
     text-align: center;
     padding: 40px 30px;
-    background-image: url("/Pictures/Hero-bg.png");
+    background-image: url('../Pictures/Hero-bg.png');
 }
 .web{
     text-align: center;
@@ -35,7 +35,7 @@ body{
     margin-top: 10%;
     text-align: center;
     padding: 40px 20px;
-    background-image: url("/Pictures/handshake.jpg"); 
+    background-image: url('../Pictures/handshake.jpg'); 
     background-size: cover;
     background-position: center;
     height: 100%;
