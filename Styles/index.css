@@ -1,0 +1,69 @@
+
+header{
+    align-items: center;
+    padding: 15px 30px;
+   background-color: white;
+   justify-content: space-between;
+   display: flex;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5%;
+    background : white ;
+}
+.introduction{
+    text-align: center;
+    padding: 40px 30px;
+    background-image: url("/Pictures/Hero-bg.png");
+}
+.web{
+    text-align: center;
+    font-size: large;
+    background-color: white;
+    
+}
+.Current-Target{
+    margin-top: 20px;
+}
+.T{
+    text-align: left;
+
+}
+.support{
+    
+    margin-top: 10%;
+    text-align: center;
+    padding: 40px 20px;
+    background-image: url(/Pictures/handshake.jpg) ;
+    height: 100%;
+
+
+}
+.Contacts{
+    background-color: whitesmoke;
+
+}
+.footer{
+    background-color: whitesmoke;
+}
+.support form{
+      display: inline-block;
+      margin-top: 10px;
+}
+.support button{
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    padding: 10px 20px;
+}
+.support input{
+    width: 200px;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 10px 20px ;
+
+}
+
+
+
